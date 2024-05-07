@@ -36,7 +36,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasMoyaa&theme=black-ice&card_width=900)](https://git.io/streak-stats)
 
 <!-- Visit-counter -->
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLucasMoyaa&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=00b3ff&bg=00000000&no=2&ff=digii&tb=Visitantes%3A+&ta=" /></p> 
 
 
 <!-- Portifolio -->

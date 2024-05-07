@@ -1,28 +1,19 @@
-<img width=100% bottom=50px src="https://github.com/LucasMoyaa/LucasMoyaa/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
-<br>
-<br> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Lucas+Moya;I'm+20+years+old;I'm+a+Web+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasMoyaa&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LucasMoyaa&theme=black-ice&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
 
 <div align="center"> 
 <a href="https://instagram.com/Lucas-moyaa" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/LucasMoyaa/LucasMoyaa/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+<img align="center" height="84" width="84" src="[https://github.com/LucasMoyaa/LucasMoyaa/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Flogotipo-instagram&psig=AOvVaw2wMASbx0x1hv3NbcAVjyY9&ust=1715187816424000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj4ltaC_IUDFQAAAAAdAAAAABAE)">
 </a>
-
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
-
 
 <a href="mailto:lucasmoa112@hotmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/LucasMoyaa/LucasMoyaa/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">

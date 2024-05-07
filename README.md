@@ -35,7 +35,7 @@
 <!--  GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasMoyaa&theme=black-ice&card_width=900)](https://git.io/streak-stats)
 <!-- snake gif -->
-![snake gif](https://github.com/juninho15830/LucasMoyaa/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LucasMoyaa/LucasMoyaa/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- Visit-counter -->

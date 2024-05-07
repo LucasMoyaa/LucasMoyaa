@@ -34,6 +34,9 @@
 
 <!--  GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=LucasMoyaa&theme=black-ice&card_width=900)](https://git.io/streak-stats)
+<!-- snake gif -->
+![snake gif](https://github.com/juninho15830/LucasMoyaa/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- Visit-counter -->
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=&s=40&c=00b3ff&bg=00000000&no=2&ff=digii&tb=Visitantes%3A+&ta=" /></p> 
